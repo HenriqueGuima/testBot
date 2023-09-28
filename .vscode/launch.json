@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Python: Selenium Debug",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/pro/run.py",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "console": "integratedTerminal",
+        "stopOnEntry": false
+      }
+    ]
+  }
+  
